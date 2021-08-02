@@ -7,7 +7,7 @@
 -    Working on:
 -              > Personal portfolio website
 -              > facebook clone
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any javascript project.
 - 📫 Reach me at: romesh.30@gmail.com
 -    LinkedIn: https://www.linkedin.com/in/romesh-kosme-7a200571
 
