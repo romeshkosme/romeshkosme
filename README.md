@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning:
 -                           > DSA (Yeah! I skipped it thinking its not important.)
 -                           > Tailwind (Using it on my new projects)
--                           > socket.io
 -    Working on:
+-              > School Management Dashboard
 -              > Personal portfolio website
--              > facebook clone
+-    Previous Experience:
+-              > Integrated Braintree Payment
+-              > Built a chat using Google Firebase
+-              > Online Lease Document and many more.
 - 💞️ I’m looking to collaborate on any javascript project.
 - 📫 Reach me at: romesh.30@gmail.com
 -    LinkedIn: https://www.linkedin.com/in/romesh-kosme-7a200571
