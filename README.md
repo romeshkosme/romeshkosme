@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @romeshkosme
-- 👀 I’m interested in enhance my problem solving skills and learn.
 - 🌱 I’m currently learning:
 -                           > DSA (Yeah! I skipped it thinking its not important.)
 -                           > To contribute on OSS.
 -    Working on:
 -              > Web app for NYC Best Seller.
+-              > E-Commerce website using react for front-end and third-part api.
 -    Previous Experience:
 -              > Integrated Braintree Payment
 -              > Built a chat using Google Firebase
